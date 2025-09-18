@@ -1,0 +1,13 @@
+#PCF 
+#Pivotal Cloud Foundry #1,2,3  || PCF Environment Setup || ORG & SPACES in PCF || Green Learner
+
+https://www.youtube.com/watch?v=okOv450mO7U&list=PLq3uEqRnr_2EQok67lwDu0u5b13zfdOuW&index=3
+
+https://youtu.be/g6XT-CZBB5c?si=gcbgNL3L7OSETSQn
+
+https://youtu.be/0wqAUWk6KrY?si=muZJJOETej416rPt
+
+https://youtu.be/okOv450mO7U?si=Jz_g978pqwIIOoJB
+
+
+https://www.youtube.com/watch?v=g6XT-CZBB5c&list=PLq3uEqRnr_2EQok67lwDu0u5b13zfdOuW

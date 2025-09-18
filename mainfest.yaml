@@ -1,0 +1,5 @@
+applications:
+- name: mainfest-app
+  path: /home/ubuntu/secretsanta-generator/target
+  memory: 800M
+  instances: 2
